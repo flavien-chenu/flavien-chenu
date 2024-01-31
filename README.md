@@ -10,8 +10,8 @@ I'm a young developer at [Epitech](https://www.epitech.eu/fr/formations/epitech-
 
 
 ### Technos and skills
-[![](https://skills.thijs.gg/icons?i=c,cpp,cs,react,nextjs,redux,js,html,css")](https://github.com/flavien-chenu/)
+[![](https://skills.thijs.gg/icons?i=c,cpp,cs,react,nextjs,redux,js,html,css)](https://github.com/flavien-chenu/)
 
-[![](https://skills.thijs.gg/icons?i=python,php,postgres")](https://github.com/flavien-chenu/)
+[![](https://skills.thijs.gg/icons?i=python,php,mysql)](https://github.com/flavien-chenu/)
 
 Enjoy ! 😉 
