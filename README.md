@@ -3,7 +3,7 @@
 I'm Flavien and I'm 20 years old.
 I'm a young developer at [Epitech](https://www.epitech.eu/fr/formations/epitech-en-5-ans/) in Nantes where I mainly learn C, C++ langages and UNIX system usage. I love discovering new technologies, especially web and backend technologies. I've already developped some little web projects as begginner fullstack developper.
 
-> 👋 I'm currently looking for a 6-month part-time job as a junior developer, 2 days per week.
+> 👋 I'm currently looking for a 4-month internship as a junior developer, from start of April to the end of July 2025.
 
 ### Involvements & contributions
 * 🌱 Volunteer at [DevFest](https://devfest.gdgnantes.com/) Nantes 2022
