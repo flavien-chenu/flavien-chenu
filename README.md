@@ -6,7 +6,7 @@ I'm a young developer at [Epitech](https://www.epitech.eu/fr/formations/epitech-
 > 👋 I'm currently looking for a 4-month internship as a junior developer, from start of April to the end of July 2025.
 
 ### Involvements & contributions
-* 🌱 Volunteer at [DevFest](https://devfest.gdgnantes.com/) Nantes 2022
+* 🌱 Volunteer at [DevFest](https://devfest.gdgnantes.com/) Nantes 2022 and 2024
 * 🎆 Volunteer at [Web2Day](https://web2day.co/) 2023 and [Et demain](https://etdemain.co/) 2024 edition
 * 🏕️ Volunteer fullstack developper at [Esprit Sentiers](https://www.esprit-sentiers.fr/)
 * 🍊 4 months internship at [Lucca](https://github.com/LuccaSA) as Software Engineer on Poplee Engagement Software.
