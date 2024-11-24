@@ -36,4 +36,6 @@ I'm a young developer at [Epitech](https://www.epitech.eu/fr/formations/epitech-
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/>
 </div>
 
+<!-- [![My Skills](https://skillicons.dev/icons?i=ts,react,angular,reactivex,cs,c,cpp,rust,docker,python,php,html,css,wasm,postgres,bash,gtk,qt,linux,vscode)](https://skillicons.dev) -->
+
 Enjoy ! 😉 
